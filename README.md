@@ -19,3 +19,4 @@ It is a list for ML/DL/DM competitions.
 | DF       | 2018平安产险数据建模大赛 驾驶行为预测驾驶风险                | DM     | 20万到3千       | 平安保险         | 初赛6/12复赛7/10 |
 | DC       | 凤凰金融量化投资大赛                               | 量化     | 3万到5千        | 凤凰金融         | 5/23         |
 | 华为     | codecraft 算法大赛                              | DM     | 20万到1万        | 华为         | 4/15初赛4/27复赛         |
+| Momenta  | Momenta Car Detection Challenge | CV | 5万元+正式offer | Momenta | 笔试4/1封闭竞赛4/10 |
