@@ -25,3 +25,4 @@ It is a list for ML/DL/DM competitions.
 | 马上金融 | 违约风险 | DM | 2万到5000 | 马上金融 | 5/7初赛5/13复赛 |
 | 马上金融 | 中文连续语音识别 | speech | 2万到5000 | 马上金融 | 5/7初赛5/13复赛 |
 | Momenta | MCDC 车辆定位 | CV | 5万 | Momenta | 现场赛 | 
+| IEEE & crowdai | IEEE Investment Ranking Challenge | DM 量化| 出席IEEE Data Science Workshop | IEEE crowdai |4/30初赛
