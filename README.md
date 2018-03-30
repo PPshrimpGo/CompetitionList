@@ -1,7 +1,7 @@
 # CompetitionList
 It is a list for ML/DL/DM competitions. 
 
-| 平台       | 赛题名称                                     | 类型     | 奖金           | 主办方          | 赛程           |
+| 平台 | 赛题名称 | 类型 | 奖金 | 主办方 | 赛程 |
 | -------- | ---------------------------------------- | ------ | ------------ | ------------ | ------------ |
 | Kaggle   | [AdTracking Fraud Detection](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection)               | DM     | 12500刀-5000刀 | talking data | 05/07        |
 | Kaggle   | [CVPR:Google Landmark Retrieval Challenge](https://www.kaggle.com/c/landmark-retrieval-challenge) | CV     | 1250刀-500刀   | Google       | 05/15        |
