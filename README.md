@@ -8,7 +8,7 @@ It is a list for ML/DL/DM competitions.
 | Kaggle   | CVPR: Google Landmark Recognition Challenge | CV     | 1250刀-500刀   | Google       | 05/15        |
 | Biendata | KDD CUP of Fresh Air                     | DM     | 21500刀       | KDD          | 05/31        |
 | Biendata | CCF搜狐内容识别大赛                              | CV/NLP | 10万元         | 搜狐           | 05/21        |
-| 天池       | Fashion AI 服饰关键点定位  ![](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.4196d780Adnw8z&raceId=231648)                     | CV     | 67万元         | 阿里巴巴         | 初赛4/18复赛5/24 |
+| 天池       |   [Fashion AI 服饰关键点定位](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.4196d780Adnw8z&raceId=231648)                     | CV     | 67万元         | 阿里巴巴         | 初赛4/18复赛5/24 |
 | 天池       | 美年健康AI大赛——双高疾病风险预测                       | DM     | 10万到5万       | 美年健康         | 5/07         |
 | 天池       | IJCAI: 阿里妈妈搜索广告转化预测                      | DM     | 10000刀-4000刀 | 阿里巴巴         | 初赛4/23复赛5/15 |
 | 天池       | Fashion AI 服饰属性标签识别                      | CV     | 67万元         | 阿里巴巴         | 初赛4/18复赛5/24 |
