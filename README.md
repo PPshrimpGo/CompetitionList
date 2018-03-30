@@ -25,3 +25,6 @@ It is a list for ML/DL/DM competitions.
 | 马上金融    | [中文连续语音识别](https://aichallenge.msxf.com/#/subject/C/info)                     | speech     | 2万到5000        | 马上金融         | 5/7初赛5/13复赛         |
 | Momenta   | [MCDC 车辆定位](https://mp.weixin.qq.com/s?__biz=MzI0MTcwODI2OQ==&mid=2247484179&idx=1&sn=b5456edb08a6c8f53b91fe1f9f08d2d5&chksm=e9063e91de71b7877387556a0f543070bf17d040a97103e8d9fb56a4701a9d7d870462f15ded&mpshare=1&scene=1&srcid=0327GNZjdrC4tVoP2tnhcZnJ&pass_ticket=zAokvGuDo9iAIXnbPH%2B0qnkVrb5sfaM2qyB54yTTGZJCSiS9bKj4DXKzgPfmtXID#rd)                       | CV     | 5万       | Momenta      | 现场赛       | 
 | IEEE & crowdai | [IEEE Investment Ranking Challenge](https://www.crowdai.org/challenges/ieee-investment-ranking-challenge/leaderboards) | DM 量化| 出席IEEE Data Science Workshop | IEEE crowdai |4/30初赛|
+| 百度 | [百度阅读理解大赛](http://mrc2018.cipsc.org.cn/) | NLP | 5万到3万 | 百度/CCF/中文信息学会 |4/30初赛|
+| 招商银行 | [招商银行Fintech精英大赛](https://www.nowcoder.com/activity/2018cmbchina/index) | Fintech | 5万 | 招商银行 |4/22初赛|
+
