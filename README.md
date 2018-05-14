@@ -3,6 +3,11 @@ It is a list for ML/DL/DM competitions.
 
 | 平台 | 赛题名称 | 类型 | 奖金 | 主办方 | 赛程 |
 | -------- | ---------------------------------------- | ------ | ------------ | ------------ | ------------ |
+| 城市物流运输车辆智能调度/仓储网络智能库存管理   | [城市物流运输车辆智能调度/仓储网络智能库存管理](https://jdata.jd.com/activity/goc/page/html/index.html)               | DM    | ￥150+| NAN | 初赛启动 2018年5月28日      |
+| 第一届京东JD Dialog Challenge人机对话挑战赛   | [第一届京东JD Dialog Challenge人机对话挑战赛](http://jddc.jd.com/)               | NLP    | ￥60+| NAN | 初赛启动 2018年5月30日      |
+| 如期而至-用户购买时间预测   | [如期而至-用户购买时间预测](https://jdata.jd.com/html/detail.html?id=2)               | DM    | ￥60+SP OFFER | JDATA | 初赛 2018年6月22日      |
+| 基于移动网络通讯行为的风险用户识别   | [基于移动网络通讯行为的风险用户识别](https://jdata.jd.com/html/detail.html?id=3)               | DM    | 平台使用权 | 联通 | 初赛 2018年5月31日       |
+| ATEC蚂蚁开发者大赛   | [ATEC蚂蚁开发者大赛](https://dc.cloud.alipay.com/index#/home)               | DM/NLP    | ￥120万 | NAN | 第一赛季 2018.07.14       |
 | Kaggle   | [AdTracking Fraud Detection](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection)               | DM     | 12500刀-5000刀 | talking data | 05/07        |
 | Kaggle   | [CVPR:Google Landmark Retrieval Challenge](https://www.kaggle.com/c/landmark-retrieval-challenge) | CV     | 1250刀-500刀   | Google       | 05/15        |
 | Kaggle   | [CVPR: Google Landmark Recognition Challenge](https://www.kaggle.com/c/landmark-recognition-challenge) | CV     | 1250刀-500刀   | Google       | 05/15        |
