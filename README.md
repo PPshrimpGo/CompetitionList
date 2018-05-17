@@ -3,6 +3,9 @@ It is a list for ML/DL/DM competitions.
 
 | 平台 | 赛题名称 | 类型 | 奖金 | 主办方 | 赛程 |
 | -------- | ---------------------------------------- | ------ | ------------ | ------------ | ------------ |
+| 阿里小蜜机器人跨语言短文本匹配算法竞赛   | [阿里小蜜机器人跨语言短文本匹配算法竞赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231661)               | DM /NLP   | €7500| CIKM | 测评启动 2018年6月1日 10:00   |
+| A股主板上市公司季度营收预测   | [A股主板上市公司季度营收预测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231660)               | DM    | ￥840000| FDDC | 初赛启动 5月18日      |
+| A股主板上市公司公告信息抽取   | [A股主板上市公司公告信息抽取](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231659)               | DM / NLP  | ￥840000| FDDC | 初赛启动 5月18日      |
 | 城市物流运输车辆智能调度/仓储网络智能库存管理   | [城市物流运输车辆智能调度/仓储网络智能库存管理](https://jdata.jd.com/activity/goc/page/html/index.html)               | DM    | ￥150+| NAN | 初赛启动 2018年5月28日      |
 | 第一届京东JD Dialog Challenge人机对话挑战赛   | [第一届京东JD Dialog Challenge人机对话挑战赛](http://jddc.jd.com/)               | NLP    | ￥60+| NAN | 初赛启动 2018年5月30日      |
 | 如期而至-用户购买时间预测   | [如期而至-用户购买时间预测](https://jdata.jd.com/html/detail.html?id=2)               | DM    | ￥60+SP OFFER | JDATA | 初赛 2018年6月22日      |
