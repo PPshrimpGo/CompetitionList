@@ -3,6 +3,10 @@ It is a list for ML/DL/DM competitions.
 
 | 平台 | 赛题名称 | 类型 | 奖金 | 主办方 | 赛程 |
 | -------- | ---------------------------------------- | ------ | ------------ | ------------ | ------------ |
+| DataCastle   | [交通卡口车辆信息精准识别（图像）](http://www.dcjingsai.com/static_page/cmpList.html)               | CV    | ￥100万| 中国华录集团  | 2018年5月16日 11:00--7月30日 15:00     |
+| DataCastle   | [公交线路准点预测](http://www.dcjingsai.com/static_page/cmpList.html)               | DM    | ￥100万| 中国华录集团  | 2018年5月17日 11:00--8月15日  14:00     |
+| DataCastle   | [城市治理大数据应用创意方案赛（创意）](http://www.dcjingsai.com/static_page/cmpList.html)               | 创意    | ￥100万| 中国华录集团  | 2018年5月15日 11:00--7月30日 15:00     |
+| KAGGLE   | [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk)               | DM    | ＄70000| NAN  | May 17, 2018- 29, 2018 - 11:59 PM UTC      |
 | 阿里小蜜机器人跨语言短文本匹配算法竞赛   | [阿里小蜜机器人跨语言短文本匹配算法竞赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231661)               | DM/NPL    | €7500| CIKM  | 2018年6月1日 10:00：评测启动      |
 | A股主板上市公司季度营收预测   | [A股主板上市公司季度营收预测](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231660)               | DM    | ￥840000| FDDC2018 | 初赛启动 5月18日      |
 | 城市物流运输车辆智能调度/仓储网络智能库存管理   | [城市物流运输车辆智能调度/仓储网络智能库存管理](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231659)               | DM /NLP   | ￥840000| FDDC2018 | 初赛启动 5月18日      |
