@@ -3,6 +3,8 @@ It is a list for ML/DL/DM competitions.
 
 | 平台 | 赛题名称 | 类型 | 奖金 | 主办方 | 赛程 |
 | -------- | ---------------------------------------- | ------ | ------------ | ------------ | ------------ |
+| KAGGLE   | [The 2nd YouTube-8M Video Understanding Challenge](https://www.kaggle.com/c/youtube8m-2018)               | NLP    | ＄25000| NAN  |  May 21, 2018- August 6, 2018 11:59 PM UTC    |
+| DataFountain   | [国际安全事件关系发现](http://www.datafountain.cn/#/competitions/285/intro)               | NLP    | ￥25万| 中国航天科工集团有限公司  |  2018年 5月18日-7月5日     |
 | DataCastle   | [交通卡口车辆信息精准识别（图像）](http://www.dcjingsai.com/static_page/cmpList.html)               | CV    | ￥100万| 中国华录集团  | 2018年5月16日 11:00--7月30日 15:00     |
 | DataCastle   | [公交线路准点预测](http://www.dcjingsai.com/static_page/cmpList.html)               | DM    | ￥100万| 中国华录集团  | 2018年5月17日 11:00--8月15日  14:00     |
 | DataCastle   | [城市治理大数据应用创意方案赛（创意）](http://www.dcjingsai.com/static_page/cmpList.html)               | 创意    | ￥100万| 中国华录集团  | 2018年5月15日 11:00--7月30日 15:00     |
