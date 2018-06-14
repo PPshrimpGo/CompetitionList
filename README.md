@@ -6,7 +6,7 @@ It is a list for ML/DL/DM competitions.
 | 拍拍贷   | [第三届魔镜杯大赛](https://ai.ppdai.com/mirror/goToMirrorDetail?mirrorId=1)               | NLP    | 10万美金| NAN  |  2018/06/10 00:00:00 - 2018/07/09 23:59:59, 30天    |
 | DataFountain     | [“AIIA”杯（航天科工站）小样本下的卫星图像典型目标识别](http://www.datafountain.cn/#/competitions/288/intro)               | CV    | 20万人民币| NAN  |  6月7日-7月中旬    |
 | 天池   | [AI Word Cup - 2018世界杯新闻智能创作极限挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231664)               | NLP    | 20万人民币| NAN  |  2018年6月14日至2018年7月2日    |
-| KAGGLE   | [The 2nd YouTube-8M Video Understanding Challenge](https://www.kaggle.com/c/youtube8m-2018)               | NLP    | ＄25000| NAN  |  May 21, 2018- August 6, 2018 11:59 PM UTC    |
+| KAGGLE   | [The 2nd YouTube-8M Video Understanding Challenge](https://www.kaggle.com/c/youtube8m-2018)               | video    | ＄25000| NAN  |  May 21, 2018- August 6, 2018 11:59 PM UTC    |
 | DataFountain   | [国际安全事件关系发现](http://www.datafountain.cn/#/competitions/285/intro)               | NLP    | ￥25万| 中国航天科工集团有限公司  |  2018年 5月18日-7月5日     |
 | DataCastle   | [交通卡口车辆信息精准识别（图像）](http://www.dcjingsai.com/static_page/cmpList.html)               | CV    | ￥100万| 中国华录集团  | 2018年5月16日 11:00--7月30日 15:00     |
 | DataCastle   | [公交线路准点预测](http://www.dcjingsai.com/static_page/cmpList.html)               | DM    | ￥100万| 中国华录集团  | 2018年5月17日 11:00--8月15日  14:00     |
