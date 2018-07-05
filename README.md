@@ -3,6 +3,7 @@ It is a list for ML/DL/DM competitions.
 
 | 平台 | 赛题名称 | 类型 | 奖金 | 主办方 | 赛程 |
 | -------- | ---------------------------------------- | ------ | ------------ | ------------ | ------------ |
+| kaggle   | [Google AI Open Images - Object Detection Track](https://www.kaggle.com/c/google-ai-open-images-object-detection-track)               | CV    | 3万美金| NAN  |  2018/07/4 - 2018/08/24    |
 | 拍拍贷   | [第三届魔镜杯大赛](https://ai.ppdai.com/mirror/goToMirrorDetail?mirrorId=1)               | NLP    | 10万美金| NAN  |  2018/06/10 00:00:00 - 2018/07/09 23:59:59, 30天    |
 | DataFountain     | [“AIIA”杯（航天科工站）小样本下的卫星图像典型目标识别](http://www.datafountain.cn/#/competitions/288/intro)               | CV    | 20万人民币| NAN  |  6月7日-7月中旬    |
 | 天池   | [AI Word Cup - 2018世界杯新闻智能创作极限挑战赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231664)               | NLP    | 20万人民币| NAN  |  2018年6月14日至2018年7月2日    |
